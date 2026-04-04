@@ -22,7 +22,7 @@ author: Roshan Lal
 title: Personal Website
 email: groshanlal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stumbling through the unknown - One question at a time
+  A personal webpage housing my blog writings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  groshanlal
