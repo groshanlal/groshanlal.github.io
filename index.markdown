@@ -11,7 +11,9 @@ layout: default
     </p>
   </div>
 
-  <div class="bio-content" style="max-width: 680px; margin: 0 auto; line-height: 1.8; font-size: 1.05em;">
+  <div class="bio-content" style="max-width: 680px; margin: 0 auto; line-height: 1.8; font-size: 1.05em; overflow: hidden;">
+    <img src="{{ '/Profile Picture.jpeg' | relative_url }}" alt="Roshan Lal" style="float: left; width: 180px; margin: 0.3em 1.5em 1em 0; border-radius: 8px; object-fit: cover;">
+
     <p>
       Hi, I'm Roshan! Welcome to my corner of the internet. I'm a curious mind who loves
       exploring ideas across mathematics, science, and technology. This site is where I share
