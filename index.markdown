@@ -27,7 +27,7 @@ layout: default
 
     <p>
       Feel free to explore my <a href="{{ '/blog' | relative_url }}">Blog</a>,
-      check out my work on <a href="https://github.com/groshanlal" target="_blank">GitHub</a>,
+      check out my work on <a href="https://scholar.google.com/citations?user=Ieq0SW0AAAAJ&hl=en" target="_blank">Google Scholar</a>,
       or connect with me on <a href="https://linkedin.com/in/g-roshan-lal-ba321576" target="_blank">LinkedIn</a>.
     </p>
   </div>
