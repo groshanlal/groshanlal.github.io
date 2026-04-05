@@ -6,23 +6,108 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+
+    {%- comment -%} Collect all unique categories {%- endcomment -%}
+    {%- assign all_categories = "" -%}
+    {%- for post in site.posts -%}
+      {%- for cat in post.categories -%}
+        {%- assign all_categories = all_categories | append: cat | append: "," -%}
       {%- endfor -%}
-    </ul>
+    {%- endfor -%}
+    {%- assign desired_order = "short_story,finance,mathematics" | split: "," -%}
+    {%- assign raw_list = all_categories | split: "," | uniq -%}
+    {%- assign ordered_categories = "" -%}
+    {%- for desired in desired_order -%}
+      {%- for cat in raw_list -%}
+        {%- if cat == desired -%}
+          {%- assign ordered_categories = ordered_categories | append: cat | append: "," -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+    {%- for cat in raw_list -%}
+      {%- assign already_added = ordered_categories | split: "," -%}
+      {%- unless already_added contains cat or cat == "" -%}
+        {%- assign ordered_categories = ordered_categories | append: cat | append: "," -%}
+      {%- endunless -%}
+    {%- endfor -%}
+    {%- assign category_list = ordered_categories | split: "," -%}
+
+    {%- comment -%} Category navigation {%- endcomment -%}
+    <div class="category-nav">
+      {%- for category in category_list -%}
+        {%- if category != "" -%}
+          {%- assign cat_display = category | replace: "_", " " | capitalize -%}
+          {%- assign cat_posts = site.posts | where_exp: "post", "post.categories contains category" -%}
+          <a class="category-badge" href="#{{ category }}">{{ cat_display }} ({{ cat_posts.size }})</a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+
+    {%- comment -%} Posts grouped by category {%- endcomment -%}
+    {%- for category in category_list -%}
+      {%- if category != "" -%}
+        {%- assign cat_display = category | replace: "_", " " | capitalize -%}
+        {%- assign cat_posts = site.posts | where_exp: "post", "post.categories contains category" -%}
+
+        <div class="category-section" id="{{ category }}">
+          <h2 class="category-heading">{{ cat_display }}</h2>
+          <ul class="post-list">
+            {%- for post in cat_posts -%}
+            <li>
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+              {%- endif -%}
+            </li>
+            {%- endfor -%}
+          </ul>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
 
   {%- endif -%}
 
 </div>
+
+<style>
+  .category-nav {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .category-badge {
+    display: inline-block;
+    padding: 0.35rem 0.85rem;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .category-badge:hover {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .category-section {
+    margin-bottom: 2.5rem;
+  }
+
+  .category-heading {
+    border-bottom: 2px solid #e8e8e8;
+    padding-bottom: 0.4rem;
+    margin-bottom: 1rem;
+  }
+</style>
