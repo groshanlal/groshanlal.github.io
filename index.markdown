@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <div class="bio-section" style="text-align: center; padding: 2rem 0;">
-    <h1 style="font-size: 2.2em; margin-bottom: 0.2em;">Roshan Lal</h1>
+    <h1 style="font-size: 2.2em; margin-bottom: 0.2em;">G Roshan Lal</h1>
   </div>
 
   <div class="bio-content" style="max-width: 680px; margin: 0 auto; line-height: 1.8; font-size: 1.05em; overflow: hidden;">
