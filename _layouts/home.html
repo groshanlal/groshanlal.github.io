@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  {{ content }}
+  <div class="home-intro">
+    {{ content }}
+  </div>
 
   {%- if site.posts.size > 0 -%}
 
@@ -76,6 +78,17 @@ layout: default
 </div>
 
 <style>
+  .home-intro {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    margin-bottom: 2rem;
+  }
+
+  .post-list h3 {
+    font-size: 1.05rem;
+    margin: 0.25rem 0 0 0;
+  }
+
   .category-nav {
     margin-bottom: 2rem;
     display: flex;
