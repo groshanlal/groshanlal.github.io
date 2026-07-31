@@ -16,7 +16,7 @@ layout: default
         {%- assign all_categories = all_categories | append: cat | append: "," -%}
       {%- endfor -%}
     {%- endfor -%}
-    {%- assign desired_order = "short_story,social,mathematics" | split: "," -%}
+    {%- assign desired_order = "articial_intelligence,short_story,social,mathematics" | split: "," -%}
     {%- assign raw_list = all_categories | split: "," | uniq -%}
     {%- assign ordered_categories = "" -%}
     {%- for desired in desired_order -%}
