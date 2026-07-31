@@ -96,7 +96,7 @@ $$q_{\pi}(s,a)=\sum_{s' \in \cal S, r \in \cal R} p(s',r|s,a)[r + \gamma v_{*}(s
 
 The estimation looks like:
 
-$$V(s) = \mathbb E[G_t \|S_t = s] \approx \frac{1}{C(s)}\sum_{m=1}^{M}\sum_{\tau=0}^{T_m-1} \mathbb 1[s_\tau^m = s]g_\tau^m$$
+$$V(s) = \mathbb E[G_t |S_t = s] \approx \frac{1}{C(s)}\sum_{m=1}^{M}\sum_{\tau=0}^{T_m-1} \mathbb 1[s_\tau^m = s]g_\tau^m$$
 
 There is also an iterative way to estimate this. After every episode, we know the returns for each state at time $t$ within the episode. Apply the update rule after the $m^{th}$ trajectory:
 
