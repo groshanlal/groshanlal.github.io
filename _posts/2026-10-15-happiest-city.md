@@ -5,7 +5,6 @@ date:   2026-10-15
 categories: [short_story]
 mathjax: true
 ---
-Date: Oct 15, 2026
 
 # Chapter 1: The Happiness Survey
 
