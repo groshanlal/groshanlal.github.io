@@ -24,17 +24,15 @@ The son went back to work. He realized that his father was right. How hard could
 
 Another decade passed. The young man left his job and started a company. The business flourished, grew rapidly, and was eventually acquired for a great deal of money. By forty, he was wealthier than he had ever imagined. He owned a beautiful house, had a loving family, and no longer needed to work for a living.
 
-But he was not a billionaire. Two of his childhood friends had also started successful companies. Neither of them was a billionaire either. One evening, he visited his father and said: "It is not my fault after all. Look around, do you see any billionaires. I went to only a public school, after all. Kids who grow up to become billionaires are born in richer households and go to private schools". 
+But he was not a billionaire. Two of his childhood friends had also started successful companies. Neither of them was a billionaire either. One evening, he visited his father and said: "I agree I'm not as successful as you had hoped for. But, it is not my fault. Look around, do you see any billionaires? I went to only a public school, after all. Kids who grow up to become billionaires are born in richer households and go to private schools". 
 
 The father initially did not agree. But anyway, he tried floating this story among his friends about how his son only turned out to be a millionaire and how people like him who are not born into riches cannot dream anything bigger and how the odds are stacked against them. One by one, his friends agreed. With every repetition, the story seemed more convincing. The father slowly came to terms with reality and accepted to his son: "You're right! Considering where you started, you've done remarkably well."
 
 # Chapter 4: Family Story
 
-Over time, "the rags to riches" story became a favorite at family gatherings. The father enjoyed telling it, and the son enjoyed hearing it. With each retelling, their humble beginnings seemed a little humbler, and the son's achievements a little more remarkable.
+Over time, "the rags to riches" story of the son became a favorite at family gatherings. The father enjoyed telling it, and the son enjoyed hearing it. With each retelling, their humble beginnings seemed a little humbler, and the son's achievements a little more remarkable.
 
-Meanwhile, the son had become a father himself. He was determined to give the best possible life to his son.
-
-The boy grew up in a happy, successful family. He loved listening to his grandfather's stories about how his father had risen above his humble beginnings through determination and hard work. He hoped that one day he too would make his father just as proud.
+Meanwhile, the son had become a father himself. He was determined to give the best possible life to his son. His son grew up in a happy, successful family. He loved listening to his grandfather's stories about how his father had risen above his humble beginnings through determination and hard work. He hoped that one day he too would make his father just as proud.
 
 # Chapter 5: Another Promising Young Man
 
@@ -46,13 +44,13 @@ The son went back to work. He realized that his father was right. How hard could
 
 # Chapter 6: Another Happiness Survey
 
-Outside the house was a young reporter conducting the happiness survey. The father stepped out and told him his story. How he was born in a humble middle class family. How he was a millionaire when he was 30. How had created multiple startups. How he is a proud father of a son who is now a CEO of the biggest company in the city. And how he had achieved so much despite his humble beginnings from a middle class, public school childhood. 
+Outside the house was a young reporter conducting the happiness survey. The father stepped out and told him his story. It was the same "rags to riches" story told at the family gatherings. The reporter was impressed.
 
-The reporter was impressed. It was a remarkable story of a man who had risen above his humble beginnings, made his father proud, and raised a successful son of his own. 
+But it had not always been the story he told about himself. It was not the story of how his own father had once hoped he would become a billionaire. Nor was it the story of how he now hoped the same for his son. 
 
-Little did he know that this story of triumph had once been a story of disappointment. What was now the story of a remarkable achievement had once been considered not good enough. Over the years, the father and son had come to see the same life differently. Whether the father, long dead now, had learnt to appreciate his son's achievements or had simply learnt to tell a happier story that his friends and family would agree, we cannot say for sure.
+It was a story that he had once floated to his father, validated by his father's friends and then turned into a hero's journey by his father at the family gatherings. Whether his father, long dead now, had learned to appreciate his achievements or had simply learnt to tell a happier story, was difficult to say.
 
-The survey was wrapped up. For the tenth consecutive decade, MetroCity was declared the happiest city in the country.
+The reporter went on to interview the neighbors. The neighbors all had equally interesting stories to tell, filled with success and optimism for the future in their own ways. The survey was wrapped up. For the tenth consecutive decade, MetroCity was declared the happiest city in the country.
 
 
 
