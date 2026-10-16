@@ -18,15 +18,15 @@ A baby boy was born into a middle-class family in MetroCity. He grew up surround
 
 He graduated from a good university, and found a high-paying job. On his 30th birthday, he came home to share some good news. He announced: "I'm a millionaire now!" The father looked at him and said: "So, what? Look around. All your friends are millionaires. Go back to work. We will celebrate when you are a billionaire."
 
-The son went back to work. He realized that his father was right. How hard could it be to become a billionaire and make his father proud again? His father had, after all, always been proud of him as a child.
+The son was disappointed. He had expected that his father would be proud. But, he thought that his father might be right. How hard could it be to become a billionaire and make his father proud again? His father had, after all, always been proud of him as a child.
 
 # Chapter 3: Humble Beginnings
 
 Another decade passed. The young man left his job and started a company. The business flourished, grew rapidly, and was eventually acquired for a great deal of money. By forty, he was wealthier than he had ever imagined. He owned a beautiful house, had a loving family, and no longer needed to work for a living.
 
-But he was not a billionaire. Two of his childhood friends had also started successful companies. Neither of them was a billionaire either. One evening, he visited his father and said: "I agree I'm not as successful as you had hoped for. But, it is not my fault. Look around, do you see any billionaires? I went to only a public school, after all. Kids who grow up to become billionaires are born in richer households and go to private schools". 
+But he was not a billionaire. Despite everything he had achieved, he still felt that he had fallen short of his father's expectations. One evening, he visited his father and summed up his frustration: "I agree I'm not as successful as you had hoped for. But, it is not my fault. Look around, do you see any billionaires? I went to only a public school, after all. Kids who grow up to become billionaires are born in richer households and go to private schools". 
 
-The father initially did not agree. But anyway, he tried floating this story among his friends about how his son only turned out to be a millionaire and how people like him who are not born into riches cannot dream anything bigger and how the odds are stacked against them. One by one, his friends agreed. With every repetition, the story seemed more convincing. The father slowly came to terms with reality and accepted to his son: "You're right! Considering where you started, you've done remarkably well."
+The father initially did not agree. But anyway, he tried floating this story among his friends to see if they agree. He told them how people like his son who are not born into riches, cannot dream anything bigger. He tried explaining to them, how the odds are always stacked against them. One by one, his friends agreed. With every repetition, the story seemed more convincing. The father slowly came to came to believe it himself and accepted to his son: "You're right! Considering where you started, you've done remarkably well."
 
 # Chapter 4: Family Story
 
@@ -40,7 +40,7 @@ Years passed, and the boy grew into a successful young man. He joined a prestigi
 
 With all the excitement in his eyes, the boy came to see his father. He said: "Father! I've become the CEO of one of the biggest companies in MetroCity. And I'm worth a hundred million dollars!". The father said: "So what? I sent you to a private school that has produced billionaires. We will celebrate when you are a billionaire."
 
-The son went back to work. He realized that his father was right. How hard could it be to become a billionaire and make his father proud again? His father had, after all, always been proud of him as a child.
+The son was disappointed. He had expected that his father would be proud. But, he thought that his father might be right. How hard could it be to become a billionaire and make his father proud again? His father had, after all, always been proud of him as a child.
 
 # Chapter 6: Another Happiness Survey
 
@@ -48,7 +48,7 @@ Outside the house was a young reporter conducting the happiness survey. The fath
 
 But it had not always been the story he told about himself. It was not the story of how his own father had once hoped he would become a billionaire. Nor was it the story of how he now hoped the same for his son. 
 
-It was a story that he had once floated to his father, validated by his father's friends and then turned into a hero's journey by his father at the family gatherings. Whether his father, long dead now, had learned to appreciate his achievements or had simply learnt to tell a happier story, was difficult to say.
+It began with a story that he had once floated to his father, validated by his father's friends and then turned into a hero's journey by his father at the family gatherings. Whether his father, long dead now, had really agreed with him that his middle-class household was not worthy of the greatness that he had wished for, or whether he really appreciated his achievements, or whether he had simply learnt to tell a happier story, was difficult to say. Perhaps someday he, too, would have a different story to tell about his own son's achievements as a CEO, and whether they had been good enough after all.
 
 The reporter went on to interview the neighbors. The neighbors all had equally interesting stories to tell, filled with success and optimism for the future in their own ways. The survey was wrapped up. For the tenth consecutive decade, MetroCity was declared the happiest city in the country.
 
